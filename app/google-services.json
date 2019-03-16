@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "297315996790",
+    "firebase_url": "https://final1-1ed0d.firebaseio.com",
+    "project_id": "final1-1ed0d",
+    "storage_bucket": "final1-1ed0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297315996790:android:4db9ce9433268399",
+        "android_client_info": {
+          "package_name": "com.example.zavitar.final1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297315996790-2mr0ek6b37t7acas1eli5cskn21uep91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeqq4LjIGXmMLhX_0AUTl4Mx1mn6a_gpM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
